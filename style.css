@@ -136,6 +136,16 @@ button {
   margin-top: 1.4rem;
 }
 
+footer p:first-child{
+  margin-top: 2rem;
+  margin-bottom: 0;
+}
+
+#github-link {
+  color: #0366d6;
+  text-decoration: none;
+}
+
 /* Tablets and up */
 @media (min-width: 768px) {
   h1 {
