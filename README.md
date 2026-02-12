@@ -6,6 +6,7 @@ A web-based age calculator built as part of the [roadmap.sh Age Calculator Proje
 
 This project is a solution to the roadmap.sh beginner-level frontend challenge. It calculates a user's exact age based on their birthdate, utilizing modern JavaScript libraries and tools.
 
+**Live Demo:** [https://deyperfect.github.io/age-calculator/](https://deyperfect.github.io/age-calculator/)
 **Challenge Link:** [https://roadmap.sh/projects/age-calculator](https://roadmap.sh/projects/age-calculator)
 
 ## Features
@@ -31,7 +32,6 @@ This project is a solution to the roadmap.sh beginner-level frontend challenge. 
 This project implements the following requirements from the roadmap.sh challenge:
 
 ✅ Form with JavaScript datepicker for birthdate input
-
 ✅ Integration with Luxon library for precise age calculation  
 ✅ Display of exact age in years, months, and days  
 ✅ Form validation to ensure valid birthdate input  
