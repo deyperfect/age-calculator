@@ -31,6 +31,7 @@ This project is a solution to the roadmap.sh beginner-level frontend challenge. 
 This project implements the following requirements from the roadmap.sh challenge:
 
 ✅ Form with JavaScript datepicker for birthdate input
+
 ✅ Integration with Luxon library for precise age calculation  
 ✅ Display of exact age in years, months, and days  
 ✅ Form validation to ensure valid birthdate input  
@@ -65,13 +66,11 @@ npm install
 
 ### Running the Application
 
-#### Development Mode
-
 Start the development server:
 ```bash
 npm run dev
 ```
-The application will be available at `http://localhost:5173` (or another port if 5173 is in use).
+The application will be available at `http://localhost:5173/age-calculator/` (or another port if 5173 is in use).
 
 ## Usage
 
