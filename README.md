@@ -30,7 +30,7 @@ This project is a solution to the roadmap.sh beginner-level frontend challenge. 
 
 This project implements the following requirements from the roadmap.sh challenge:
 
-✅ Form with JavaScript datepicker for birthdate input 
+✅ Form with JavaScript datepicker for birthdate input
 ✅ Integration with Luxon library for precise age calculation  
 ✅ Display of exact age in years, months, and days  
 ✅ Form validation to ensure valid birthdate input  
@@ -106,9 +106,3 @@ This project uses Vite for a fast development experience with hot module replace
 - [roadmap.sh Frontend Projects](https://roadmap.sh/frontend/projects)
 - [Luxon Documentation](https://moment.github.io/luxon/)
 - [js-datepicker Documentation](https://www.npmjs.com/package/js-datepicker)
-
----
-
-⭐ If you find this project useful, please consider giving it a star on GitHub!
-
-**Note:** This is a learning project created as part of the roadmap.sh curriculum.
