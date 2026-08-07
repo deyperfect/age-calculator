@@ -1,6 +1,9 @@
 import { defineConfig } from 'vite'
 
 export default defineConfig({
-  // Use the name of your GitHub Repository here
+  // Use this for github
   base: '/age-calculator/', 
+
+  // Use this for Amazon S3
+  // base: '/',
 })
